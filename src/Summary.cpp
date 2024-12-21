@@ -1,6 +1,6 @@
 /* XMRig
  * Copyright (c) 2018-2022 SChernykh   <https://github.com/SChernykh>
- * Copyright (c) 2016-2022 XMRig       <support@xmrig.com>
+ * Copyright (c) 2016-2022
  *
  *   This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
@@ -196,7 +196,7 @@ static void print_commands(Config *)
                    );
     }
     else {
-        Log::print(" * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection");
+        Log::print(" * COMMANDS     'h'  hashrate, 'p'  pause, 'r'  resume, 's'  results, 'c'  connection");
     }
 }
 
