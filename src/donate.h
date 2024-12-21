@@ -1,7 +1,7 @@
 /* XMRig
  * Copyright (c) 2018-2022 SChernykh   <https://github.com/SChernykh>
- * Copyright (c) 2016-2022 XMRig       <https://github.com/xmrig>, <support@xmrig.com>
- *
+ * Copyright (c) 
+ ** SB weiruan bie feng wo hao
  *   This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
  *   the Free Software Foundation, either version 3 of the License, or
